@@ -83,7 +83,7 @@ Failure modes are understood: probe-point validity near boundaries, discrete tim
 git clone https://github.com/Thelegendarybub/Robot-Path-Planning-Algorithm
 cd Robot-Path-Planning-Algorithm
 pip install numpy matplotlib
-python3 main.py
+python3 Robot_Final.py
 ```
 
 ---
